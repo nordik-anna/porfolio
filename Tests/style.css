@@ -1,0 +1,331 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.fon{
+    background-image: url(img/serfing.png); 
+    background-size: 100%;
+    height: 100vh;
+}
+
+header {
+    text-align: center;
+    padding-top: 100px;
+}
+
+header a {
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 21px;
+    font-size: 23px;
+    letter-spacing: 2px;
+}
+
+.cent {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.cent p {
+    letter-spacing: 2px;
+    margin-top: 25px;
+}
+
+.zag {
+    text-align: center;
+    margin-top: 60px;
+    letter-spacing: 2px;
+}
+
+.block {
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
+
+.block1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 45%;
+    padding: 40px;
+}
+
+.block1 p {
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+.ots {
+    padding-bottom: 40px;
+}
+
+.ots2 {
+    padding-bottom: 20px;
+}
+
+.ots4 {
+    padding-bottom: 10px;
+}
+
+.zag2 {
+    text-align: center;
+    margin-top: 60px;
+    letter-spacing: 2px;
+    padding-bottom: 20px;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    padding: 20px;
+    margin: 40px;
+}
+
+.text {
+    text-align: center;   
+    font-size: 17px;
+    letter-spacing: 1px;
+    text-decoration: overline;
+}
+
+.texxt {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    margin-bottom: 100px;
+    font-size: 15px;
+}
+
+
+.block3 p {
+    font-size: 14px;
+    margin-left: 70px;
+    margin-right: 100px;
+}
+
+.ok {
+    margin-right: 90px;
+}
+
+
+
+
+.block4 {
+    float: left;
+    width: 35%;
+    margin-left: 70px;
+    margin-right: 100px;
+}
+
+.block5 {
+    margin-right: 20px; 
+    margin-bottom: 50px;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.ots5 {
+    padding-bottom: 20px;
+}
+
+.im {
+width: 720px;
+float: right;
+}
+
+.zag3 {
+    margin-left: 180px;
+    margin-top: 100px;
+    padding-bottom: 70px;
+    letter-spacing: 2px;
+}
+
+.block6 p {
+    padding-bottom: 90px;
+    margin-left: 55px;
+    text-align: justify;
+}
+
+.block6 {
+    margin-right: 800px;
+}
+
+.zag4 {
+    text-align: center;
+    margin-top: 60px;
+    letter-spacing: 3px;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+.photo img {
+    padding: 8px;
+    margin-left: 20px;
+}
+
+.citata {
+    font-size: 30px;
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(233, 233, 233);
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+
+.citata sub {
+    font-size: 10px;
+}
+
+.photo7 {
+    margin-left: 90px;
+}
+
+.int { 
+    display: flex;
+   justify-content: center;
+   
+}
+
+.int p {
+    padding-right: 60px;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    margin: 19px;
+}
+
+.opp {
+    font-size: 60px;
+}
+
+.zag5 {
+    text-align: center;
+    margin-top: 100px;
+    letter-spacing: 3px;
+    padding-bottom: 20px;
+    font-size: 25px;
+}
+
+.people {
+    display: flex;
+    justify-content:space-between;
+    margin: 40px;
+}
+
+.people p {
+    text-align: center;
+    margin-top: 10px;
+    letter-spacing: 1.5px;
+}
+
+.zag6 {
+    text-align: center;
+    margin-top: 200px;
+    letter-spacing: 3px;
+    padding-bottom: 30px;
+    font-size: 27px;
+}
+
+
+.zag7 {
+    text-align: center;
+    margin-top: 200px;
+    letter-spacing: 3px;
+    padding-bottom: 100px;
+    font-size: 27px;
+}
+
+.map1 {
+    background-color: rgb(230, 236, 236);
+    width: 310px;
+    height: 510px;
+}
+
+.map {
+    display: flex;
+    justify-content: space-between;
+    margin: 90px;
+}
+
+.redak {
+    text-align: center;
+    font-size: 28px;
+    padding:17px;
+}
+
+.strok {
+    padding: 19px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    font-size: 12.4px;
+}
+
+.end {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.mapp img {
+    margin: 10px;
+    width: 1350px ;
+}
+
+.inp  {
+    width: 50%;
+    height: 50%;
+    padding: 27px;
+    font-size: 16px;
+    letter-spacing: 0.6px;
+
+}
+
+input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid grey;
+    width: 95%;
+    margin-bottom: 30px;
+}
+
+button {
+    padding: 20px 50px;
+    border: 1px solid gray;
+    width: 240px;
+    text-align: center;
+    font-size: 16px;
+    background-color: white;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(230, 236, 236);
+}
+
+.kont {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(230, 236, 236);
+    padding: 30px;
+    font-size: 20px;
+    margin-right: 13px;
+
+}
+
+.finaly {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.kont p {
+    margin: 32px;
+    letter-spacing: 2px;
+}
